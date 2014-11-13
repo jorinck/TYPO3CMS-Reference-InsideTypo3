@@ -238,7 +238,7 @@ in $BE\_USER->firstMainGroup). These defaults can be changed through
 
 If you wish to change the default values user/group/everybody it can
 be done by TYPO3\_CONF\_VARS[BE][defaultPermissions] (please read
-comments in the source code of config\_defaults.php).
+comments in the source code of config\_default.php).
 
 
 User TSconfig
